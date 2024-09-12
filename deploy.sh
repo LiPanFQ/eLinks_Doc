@@ -4,10 +4,10 @@
 set -e
 
 # 生成静态文件
-npm run build:win
+# npm run build:win
 
 # 进入生成的文件夹
-cd docs/.vuepress/dist
+# cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
 #  echo 'doc.frontdoc.cn' > CNAME
@@ -15,6 +15,6 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:LiPanFQ/eLinks_Doc.github.io.git gh-pages
+git push -f git@github.com:LiPanFQ/eLinks_Doc.github.io.git master
 
 cd -
