@@ -15,5 +15,5 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f https://github.com/LiPanFQ/eLinks_Doc.git gh-pages
+git push -f https://github.com/LiPanFQ/eLinks_Doc.git master:gh-pages
 cd -
