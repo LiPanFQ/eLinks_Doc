@@ -61,6 +61,20 @@ module.exports = {
         ]
       },
       { text: '资源', link: '/pages/db78e2/' },
+      {
+        text: '技术', items: [
+          {
+            text: '前端', items: [
+              {text: 'Vdoing', link: '/pages/5a0669/' }
+            ]
+          },
+          {
+            text: '后端', items: [
+              { text: '使目录栏支持h2~h6标题', link: '/pages/8dfab5/' },
+            ]
+          }
+         ]
+      },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo

@@ -17,3 +17,7 @@ urls.txt
 
 # mac
 .DS_Store
+/.idea/.gitignore
+/.idea/eLinks_Doc.iml
+/.idea/modules.xml
+/.idea/vcs.xml
