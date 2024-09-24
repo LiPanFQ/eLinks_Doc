@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-eLinks官方文档官方文档官方文档
-=======
 ---
 home: true
 # heroImage: /img/web.png
@@ -80,4 +77,3 @@ console.log('这是一个详情块')
 ::: right
 来自 [维基百科](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B)
 :::
->>>>>>> 10a69da0fed3d19c6f98f6dc050ffc6aed2964d2
